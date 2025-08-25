@@ -26,4 +26,4 @@ Este es un proyecto sencillo en **JavaScript, HTML y CSS** para gestionar una li
 
 - `index.html`: contiene la estructura de la página.  
 - `style.css`: estilos opcionales para la interfaz.  
-- `script.js`: lógica de JavaScript para agregar amigos, mostrar la lista y sortear al azar.
+- `app.js`: lógica de JavaScript para agregar amigos, mostrar la lista y sortear al azar.
